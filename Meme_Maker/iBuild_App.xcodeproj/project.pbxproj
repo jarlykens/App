@@ -207,7 +207,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3F7DA683222CDAB1001BB156 /* Build configuration list for PBXProject "Meme_Maker" */;
+			buildConfigurationList = 3F7DA683222CDAB1001BB156 /* Build configuration list for PBXProject "iBuild_App" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -437,7 +437,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = C6NU8MQV95;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Meme_Maker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -446,7 +446,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "App.Meme-Maker";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -455,7 +455,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = C6NU8MQV95;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Meme_Maker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -464,7 +464,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "App.Meme-Maker";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
@@ -553,7 +553,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3F7DA683222CDAB1001BB156 /* Build configuration list for PBXProject "Meme_Maker" */ = {
+		3F7DA683222CDAB1001BB156 /* Build configuration list for PBXProject "iBuild_App" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3F7DA6AE222CDAB4001BB156 /* Debug */,
